@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "5fe0f49a301b862564e0f9e0"
+  },
+  "codigo": 1,
+  "nombre": "el ultimo deseo",
+  "autor": "Andrzej Sapkowski",
+  "precio": 176000
+},{
+  "_id": {
+    "$oid": "5fe142647d86650600145e00"
+  },
+  "codigo": 2,
+  "nombre": "El poder de confiar en ti",
+  "autor": "Curro ",
+  "precio": 188000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe24989db395f2ca45a6b8d"
+  },
+  "codigo": 4,
+  "nombre": "Sangre de campeon",
+  "autor": "autor",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe24a21db395f2ca45a6b8e"
+  },
+  "codigo": 5,
+  "nombre": "sangre de campeon",
+  "autor": "no se sabe",
+  "precio": 55000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe283c73392bf2dc4fdc4c4"
+  },
+  "codigo": 15,
+  "nombre": "el ultimo deseo",
+  "autor": "anonimo",
+  "precio": 198000,
+  "__v": 0
+}]

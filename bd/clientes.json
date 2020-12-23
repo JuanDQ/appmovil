@@ -1,0 +1,152 @@
+[{
+  "_id": {
+    "$oid": "5fe0a51d301b862564e0f9d6"
+  },
+  "codigo": 1,
+  "cedula": "1053863071",
+  "nombre": "juan",
+  "apellido": "Quintero",
+  "telefono": "3209818075",
+  "email": "jdquinterob@uniremingtonmanizales.edu.co"
+},{
+  "_id": {
+    "$oid": "5fe0a527301b862564e0f9d7"
+  },
+  "codigo": 2,
+  "cedula": "1053863071",
+  "nombre": "cristiam",
+  "apellido": "Quintero",
+  "telefono": "3209818075",
+  "email": "jdquinterob@uniremingtonmanizales.edu.co"
+},{
+  "_id": {
+    "$oid": "5fe0a537301b862564e0f9d8"
+  },
+  "codigo": 3,
+  "cedula": "1053863071",
+  "nombre": "Fernanda",
+  "apellido": "Quintero",
+  "telefono": "3209818075",
+  "email": "jdquinterob@uniremingtonmanizales.edu.co"
+},{
+  "_id": {
+    "$oid": "5fe0d1b691f1223558d1ad89"
+  },
+  "codigo": 4,
+  "cedula": "101010101",
+  "nombre": "fernando",
+  "apellido": "Lopez",
+  "telefono": "3209818075",
+  "email": "crqube@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0d7bbe88e1536f4663186"
+  },
+  "codigo": 5,
+  "cedula": "101010101",
+  "nombre": "carlos",
+  "apellido": "Lara",
+  "telefono": "3209818075",
+  "email": "crqube@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe0dd769f879c2f30d38d25"
+  },
+  "codigo": 6,
+  "cedula": "1053863071",
+  "nombre": "francisco",
+  "apellido": "peña",
+  "telefono": "980121375",
+  "email": "fercho@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe14304faa39f29508927b0"
+  },
+  "codigo": 7,
+  "cedula": "1053863071",
+  "nombre": "juan",
+  "apellido": "Quintero",
+  "telefono": "3209818075",
+  "email": "jdquinterob@uniremingtonmanizales.edu.co",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1513c6e25a408a0419685"
+  },
+  "codigo": 11,
+  "cedula": "1053863071",
+  "nombre": "Juan",
+  "apellido": "Bernal",
+  "telefono": "3209818075",
+  "email": "juandi231945@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1513d6e25a408a0419686"
+  },
+  "codigo": 11,
+  "cedula": "1053863071",
+  "nombre": "Juan",
+  "apellido": "Bernal",
+  "telefono": "3209818075",
+  "email": "juandi231945@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe1593a6e25a408a041968a"
+  },
+  "codigo": 12,
+  "cedula": "1053863071",
+  "nombre": "Diego",
+  "apellido": "Quintero",
+  "telefono": "3209818075",
+  "email": "juandi231945@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe15da96e25a408a041968f"
+  },
+  "codigo": 13,
+  "cedula": "1212111213131",
+  "nombre": "juandi",
+  "apellido": "quintero",
+  "telefono": "12312314121",
+  "email": "juasdasda@aadasda.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe162686e25a408a0419690"
+  },
+  "codigo": 14,
+  "cedula": "1053863071",
+  "nombre": "cristian",
+  "apellido": "quintero",
+  "telefono": "3146785032",
+  "email": "crqube@gmail.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe21e43db395f2ca45a6b8c"
+  },
+  "codigo": 14,
+  "cedula": "12331241213",
+  "nombre": "cristian ",
+  "apellido": "quintero ",
+  "telefono": "1231231124",
+  "email": "asdasdad@gasdasd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe283873392bf2dc4fdc4c3"
+  },
+  "codigo": 16,
+  "cedula": "1053863071",
+  "nombre": "Diego",
+  "apellido": "Quintero",
+  "telefono": "3209818075",
+  "email": "jdquinterb@uniremingtonmanizales.edu.co",
+  "__v": 0
+}]

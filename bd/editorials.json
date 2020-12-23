@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "5fe26092db395f2ca45a6b8f"
+  },
+  "codigo": 4,
+  "nombre": "Casagrande",
+  "formato": "Rustico",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe260b3db395f2ca45a6b90"
+  },
+  "codigo": 5,
+  "nombre": "ejemplo",
+  "pais": "ejemplo",
+  "formato": "digital",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe283ec3392bf2dc4fdc4c5"
+  },
+  "codigo": 15,
+  "nombre": "SuperNowa",
+  "pais": "Polonia",
+  "formato": "rustico",
+  "__v": 0
+}]

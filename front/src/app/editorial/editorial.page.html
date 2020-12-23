@@ -1,0 +1,32 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-title>Editorial</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-text color="Secondary">
+    <center><h1>Editorial</h1></center>
+  </ion-text>
+  <ion-list>
+    <ion-item>
+  <ion-label color="tertiary"><strong>Codigo</strong></ion-label>
+  <ion-label><strong>Nombre</strong></ion-label>
+  <ion-label><strong>Pais</strong></ion-label>
+  <ion-label><strong>Formato</strong></ion-label>
+</ion-item>
+</ion-list>
+<ion-list *ngFor="let editorial of editorials">
+  <ion-item>
+    <ion-label color="tertiary">{{editorial.codigo}}</ion-label>
+    <ion-label>{{editorial.nombre}}</ion-label>
+    <ion-label>{{editorial.pais}}</ion-label>
+    <ion-label>{{editorial.formato}}</ion-label>
+    <!--<ion-label>{{editorial.añoP}}</ion-label>-->
+  </ion-item>
+</ion-list>
+
+</ion-content>
